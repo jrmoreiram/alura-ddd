@@ -11,7 +11,7 @@ Curso de Java e Domain Driven Design: Apresentando os conceitos.
 - Conheça mais sobre eventos, contextos e camadas
 
 ## Aulas:
-- Linguagem Ubíqua Ver primeiro vídeo
+- Linguagem Ubíqua
 - Aggregates
 - Eventos
 - Contextos delimitados
