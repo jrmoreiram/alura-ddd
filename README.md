@@ -1,7 +1,6 @@
-# Temas abordados durante o curso:
-Curso de Java e Domain Driven Design: Apresentando os conceitos.
+# Curso de Java e Domain Driven Design: Apresentando os conceitos.
 
-## Estrutura de Dados: Aqui poderá ser visto as principais estruturas, como:
+## Temas abordados durante o curso:
 - Aprenda e aplique as técnicas do desenvolvimento guiado ao domínio, o famoso DDD
 - Crie software que realmente entregue valor ao cliente
 - Garanta a agregação de valor
