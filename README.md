@@ -1,7 +1,5 @@
-# alura-ddd
-Curso de Java e Domain Driven Design: Apresentando os conceitos.
-
 # Temas abordados durante o curso:
+Curso de Java e Domain Driven Design: Apresentando os conceitos.
 
 ## Estrutura de Dados: Aqui poderá ser visto as principais estruturas, como:
 - Aprenda e aplique as técnicas do desenvolvimento guiado ao domínio, o famoso DDD
