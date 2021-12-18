@@ -1,4 +1,4 @@
-# Curso de Java e Domain Driven Design: Apresentando os conceitos.
+# Curso de Java e Domain Driven Design: Apresentando os conceitos
 
 ### Temas abordados durante o curso:
 - Aprenda e aplique as técnicas do desenvolvimento guiado ao domínio, o famoso DDD
